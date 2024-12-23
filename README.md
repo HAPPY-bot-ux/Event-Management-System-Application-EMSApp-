@@ -59,16 +59,6 @@ Buttons change color and font size on hover for a dynamic user experience.
 GridBagLayout:
 
 Ensures consistent alignment and placement of components.
-🚀 Setup Instructions
-1. Clone or Download the Repository
-bash
-Copy code
-git clone https://github.com/Happy-bot-ux/EMSApp.git  
-cd EMSApp  
-2. Set Up MySQL Database
-Install MySQL Server and create a database for the application.
-Import the provided SQL file to set up tables for events, attendees, and venues.
-Example SQL Commands:
 
 sql
 Copy code
